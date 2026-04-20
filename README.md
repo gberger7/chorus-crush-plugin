@@ -52,4 +52,10 @@ Complete and fully functional. Tested in Logic Pro X.
 
 ## Demo
 
-Coming soon.
+
+
+https://github.com/user-attachments/assets/9411df17-ab15-4cef-aaf7-ce2e876e1f48
+
+
+
+
