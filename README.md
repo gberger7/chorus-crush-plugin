@@ -27,12 +27,6 @@ both together. Two knobs. Instant results.
 
 ## Building From Source
 
-### Prerequisites
-- macOS
-- Xcode Command Line Tools
-- CMake 3.15+
-- JUCE framework
-
 ### Build
 ```bash
 git clone https://github.com/YOURUSERNAME/chorus-crush-plugin.git
